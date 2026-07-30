@@ -1,0 +1,3 @@
+account_num,name,email,phone,ifsc,account_type,balance,address,picture_path,created_at
+10002,2323,asads@gmail.com,2525252525,asd,Savings,50000.0,asd,uploads/avatar_10002.png,2026-07-05 10:08:44
+10001,Rehbar Khan,davidmarkson11111@gmail.com,8595111515,112245kotakjasola,Savings,50000.0,"Nafees Road, Batla House, Okhla New Delhi 110025",uploads/avatar_10001.png,2026-07-05 10:01:19
